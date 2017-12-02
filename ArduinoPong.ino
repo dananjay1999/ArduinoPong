@@ -108,8 +108,7 @@ void moveBall() {
   if (oldBallX != ballX || oldBallY != ballY) {
     tft.fillRect(oldBallX, oldBallY, 5, 5, BLACK);
   }
-
-
+  
   tft.fillRect(ballX, ballY, 5, 5, CYAN);
 
   oldBallX = ballX;
