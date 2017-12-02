@@ -1,2 +1,2 @@
 # ArduinoPong
-Created a Pong Game on the Arduino using an OLED Screen
+A Pong Game that is played on the Arduino using an OLED Screen and two Potentiometers. 
